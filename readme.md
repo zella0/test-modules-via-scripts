@@ -1,6 +1,6 @@
-# JavaScript Assessment
+# package.json Scripts Assessment
 
-Description_Here
+This repository is a chance for you to practice making scripts in the `package.json` file. Solve this assessment by installing the [cowsay](https://github.com/piuccio/cowsay) module and creating a script that will run it.
 
 ## Setup
 
